@@ -1,0 +1,7 @@
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\bin\Debug\Fbk2.exe.config
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\bin\Debug\Fbk2.exe
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\bin\Debug\Fbk2.pdb
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\obj\Debug\Fbk2.csprojResolveAssemblyReference.cache
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\obj\Debug\Fbk2.csproj.CoreCompileInputs.cache
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\obj\Debug\Fbk2.exe
+c:\users\ivan ostapchuk\Source\Repos\Fbk2\Fbk2\obj\Debug\Fbk2.pdb
