@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FCC897BF-8FAA-4CDC-B239-2844D99C421B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewFbk/Program.cs">
+    <Files>
+      <File FileName="NewFbk/Program.cs" Line="183" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NewFbk PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

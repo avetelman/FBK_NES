@@ -1,0 +1,10 @@
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\bin\Debug\NewFbk.exe.config
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\bin\Debug\NewFbk.exe
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\bin\Debug\NewFbk.pdb
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\bin\Debug\HtmlAgilityPack.dll
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\bin\Debug\HtmlAgilityPack.pdb
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\bin\Debug\HtmlAgilityPack.xml
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\obj\Debug\NewFbk.csprojResolveAssemblyReference.cache
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\obj\Debug\NewFbk.csproj.CoreCompileInputs.cache
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\obj\Debug\NewFbk.exe
+c:\users\ivan ostapchuk\Source\Repos\NewFbk\NewFbk\obj\Debug\NewFbk.pdb
